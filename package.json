@@ -16,7 +16,7 @@
     "body-parser": "^1.18.3",
     "concurrently": "^4.0.2",
     "express": "^4.16.3",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.3"
   }
 }
